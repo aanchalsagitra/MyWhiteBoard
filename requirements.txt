@@ -1,0 +1,7 @@
+1. Responsiveness
+2. Draw 
+3. Rub
+4. Change Color
+5. Save White board
+6. Pen Thickness
+7. Zoom in/out
